@@ -13,6 +13,10 @@ Easily integrate pagination controls into your mobile, web, or desktop apps with
 - 📦 Pure Dart/Flutter package — **no native code** required
 
 ---
+![Pagination Widget Demo](example/assets/images/Screenshot%202025-08-12%20210651.png)
+
+
+---
 
 ## Installation
 

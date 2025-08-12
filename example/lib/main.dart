@@ -85,11 +85,14 @@ class _MyAppState extends State<MyApp> {
                 },
               ),
             ),
+            SizedBox(height: 10)
+,
             PaginationWidget(
               meta: meta,
               onPageChanged: (p) => setState(() => current = p),
               primaryColor: Colors.teal,
             ),
+            SizedBox(height: 10)
           ],
         ),
       ),

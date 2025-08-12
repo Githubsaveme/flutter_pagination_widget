@@ -1,6 +1,6 @@
 name: flutter_pagination_widget
 description: "A lightweight, responsive, and fully customizable pagination widget for Flutter. Easily integrate pagination controls into your mobile, web, or desktop apps without relying on external dependencies.  Supports page navigation with Previous/Next buttons, dynamic page numbers, and ellipses (...) for large datasets. Works on all screen sizes and orientations"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Githubsaveme/flutter_pagination_widget
 repository: https://github.com/Githubsaveme/flutter_pagination_widget
 issue_tracker: https://github.com/Githubsaveme/flutter_pagination_widget/issues
